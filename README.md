@@ -9,3 +9,6 @@
 <br>
 
 Just change your `dappUrl` in `metamask-auth.jsx`.
+
+Demo: https://metamask-auth.ilamanov.repl.co/ <br>
+Demo code: https://replit.com/@ilamanov/metamask-auth?v=1
